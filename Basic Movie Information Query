@@ -1,0 +1,13 @@
+SELECT
+A.title AS "Title",
+C.name AS "Genre",
+A.rating AS "Rating",
+A.release_year AS "Release Year",
+A.length AS "Movie Length",
+A.rental_duration AS "Rental Duration"
+A.rental_rate AS "Rental Rate"
+A.replacement_cost AS "Replacement Cost"
+
+FROM film A
+INNER JOIN film_category B ON A.film_id = B.film_id
+INNER JOIN category C ON B.category_id = C.category_id
