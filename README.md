@@ -7,6 +7,6 @@ I've included...
 
 1) A pdf of my power point presentation, containing all my insights and reccomendations for Rockbuster
 2) An Excel Workbook, containing all the pulled tables from doing each of the SQL queries
-3) Separate files o some of the major SQL quer
+3) Separate files of some of the major SQL queries
 4) A Link to all my [Visualizations using Tableau](https://public.tableau.com/app/profile/rajit.sikka/viz/FilmAnalysis_17007626662980/Bottom10Films)
 
